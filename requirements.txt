@@ -1,0 +1,11 @@
+pandas
+gspread
+psycopg2
+google-api-python-client
+os
+time
+peewee
+configparser
+sqlalchemy
+requests
+keyboard
